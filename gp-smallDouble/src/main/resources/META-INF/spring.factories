@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.gupaoedu.ssivp.server.ReferenceINvokeProxy,\
+  com.gupaoedu.ssivp.server.RemoteInvocationHandler,\
+  com.gupaoedu.ssivp.server.RpcNetTransprot
